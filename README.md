@@ -16,39 +16,39 @@ Industry and sector information
 # The 33-Point Analysis System
 The tool performs 33 distinct analyses that feed into the final recommendation:
 
-Insider Trades Analysis: Examines buying/selling patterns by company executives and board members, calculating ratios and trends over time.
-Analyst Ratings: Aggregates professional analyst recommendations, price targets, and changes in sentiment over time.
-Industry Analysis: Evaluates the company's position within its industry, including market share, competitive advantages, and growth potential.
-Options Analysis: Calculates put/call ratios, implied volatility patterns, and options Greeks (Delta, Gamma, Theta, Vega) to gauge market expectations.
-Financial Data Analysis: Deep dive into income statements, balance sheets, and cash flow statements.
-Monte Carlo Simulation: Runs thousands of price simulations to generate probability distributions for future price movements.
-Current Price Analysis: Establishes baseline valuation metrics using current trading price.
-Target Price Estimation: Uses multiple forecasting methods to generate price targets for 1-5 year horizons.
-Technical Analysis: Calculates over 50 technical indicators including moving averages, oscillators, and pattern recognition.
-Risk Metrics Calculation: Evaluates Beta, Sharpe Ratio, Sortino Ratio, Maximum Drawdown, Value at Risk (VaR), and more.
-Financial Ratios: Analyzes profitability, liquidity, efficiency, and valuation ratios with historical comparison.
-Economic Indicator Impact: Assesses how macroeconomic factors impact the specific stock.
-Market Crash Risk Assessment: Calculates the probability and potential impact of market downturns.
-Topological Data Analysis (TDA): Uses advanced mathematics to identify hidden patterns in price movements.
-Advanced Analytical Models: Applies chaos theory, fractal analysis, and nonlinear dynamics to detect complex patterns.
-Index Correlation Analysis: Measures how the stock moves relative to major indices and sector benchmarks.
-String Theory Metrics: Novel approach using physics-inspired metrics to model market behavior.
-Time Series Decomposition: Breaks down price into trend, seasonal, and residual components.
-Trend Analysis: Identifies long-term directional movements and sentiment shifts.
-Financial Growth Analysis: Tracks growth rates across key financial metrics over multiple periods.
-Balance Sheet Growth Analysis: Examines evolution of assets, liabilities, and equity.
-Income Growth Analysis: Studies trends in revenue, expenses, and profit margins.
-Cashflow Growth Analysis: Analyzes patterns in operating, investing, and financing cash flows.
-Key Metrics Evaluation: Assesses performance indicators like revenue per share and earnings growth.
-Comprehensive Ratio Analysis: Compares ratios to industry benchmarks and historical averages.
-Discounted Cash Flow Analysis: Calculates intrinsic value based on projected future cash flows.
-Revenue Segmentation Analysis: Breaks down revenue by product line and geography to identify growth drivers.
-Sector Peer Comparison: Benchmarks against industry peers across multiple metrics.
-Employee Data Analysis: Examines workforce trends as indicators of company health.
-Share Float Analysis: Studies how the tradable share count changes over time.
-Company Notes/Debt Analysis: Evaluates corporate debt structure and obligations.
-Market News Sentiment Analysis: Uses NLP to analyze news coverage sentiment.
-Earnings Call Transcript Analysis: Extracts insights from management commentary during earnings calls.
+1. Insider Trades Analysis: Examines buying/selling patterns by company executives and board members, calculating ratios and trends over time.
+2. Analyst Ratings: Aggregates professional analyst recommendations, price targets, and changes in sentiment over time.
+3. Industry Analysis: Evaluates the company's position within its industry, including market share, competitive advantages, and growth potential.
+4. Options Analysis: Calculates put/call ratios, implied volatility patterns, and options Greeks (Delta, Gamma, Theta, Vega) to gauge market expectations.
+5. Financial Data Analysis: Deep dive into income statements, balance sheets, and cash flow statements.
+6. Monte Carlo Simulation: Runs thousands of price simulations to generate probability distributions for future price movements.
+7. Current Price Analysis: Establishes baseline valuation metrics using current trading price.
+8. Target Price Estimation: Uses multiple forecasting methods to generate price targets for 1-5 year horizons.
+9. Technical Analysis: Calculates over 50 technical indicators including moving averages, oscillators, and pattern recognition.
+10. Risk Metrics Calculation: Evaluates Beta, Sharpe Ratio, Sortino Ratio, Maximum Drawdown, Value at Risk (VaR), and more.
+11. Financial Ratios: Analyzes profitability, liquidity, efficiency, and valuation ratios with historical comparison.
+12. Economic Indicator Impact: Assesses how macroeconomic factors impact the specific stock.
+13. Market Crash Risk Assessment: Calculates the probability and potential impact of market downturns.
+14. Topological Data Analysis (TDA): Uses advanced mathematics to identify hidden patterns in price movements.
+15. Advanced Analytical Models: Applies chaos theory, fractal analysis, and nonlinear dynamics to detect complex patterns.
+16. Index Correlation Analysis: Measures how the stock moves relative to major indices and sector benchmarks.
+17. String Theory Metrics: Novel approach using physics-inspired metrics to model market behavior.
+18. Time Series Decomposition: Breaks down price into trend, seasonal, and residual components.
+19. Trend Analysis: Identifies long-term directional movements and sentiment shifts.
+20. Financial Growth Analysis: Tracks growth rates across key financial metrics over multiple periods.
+21. Balance Sheet Growth Analysis: Examines evolution of assets, liabilities, and equity.
+22. Income Growth Analysis: Studies trends in revenue, expenses, and profit margins.
+23. Cashflow Growth Analysis: Analyzes patterns in operating, investing, and financing cash flows.
+24. Key Metrics Evaluation: Assesses performance indicators like revenue per share and earnings growth.
+25. Comprehensive Ratio Analysis: Compares ratios to industry benchmarks and historical averages.
+26. Discounted Cash Flow Analysis: Calculates intrinsic value based on projected future cash flows.
+27. Revenue Segmentation Analysis: Breaks down revenue by product line and geography to identify growth drivers.
+28. Sector Peer Comparison: Benchmarks against industry peers across multiple metrics.
+29. Employee Data Analysis: Examines workforce trends as indicators of company health.
+30. Share Float Analysis: Studies how the tradable share count changes over time.
+31. Company Notes/Debt Analysis: Evaluates corporate debt structure and obligations.
+32. Market News Sentiment Analysis: Uses NLP to analyze news coverage sentiment.
+33. Earnings Call Transcript Analysis: Extracts insights from management commentary during earnings calls.
 
 # AI-Powered Synthesis
 After collecting all this data, the tool uses Anthropic's Claude AI to synthesize the information into a structured investment recommendation:
